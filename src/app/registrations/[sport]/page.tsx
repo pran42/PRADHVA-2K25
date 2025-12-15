@@ -102,7 +102,7 @@ const sportsData: {
         bgImage: '/images/throw-ball-bg.jpg'
     },
     'Kho-Kho': {
-        icon: '',
+        icon: '🏃‍♀️🔥',
         rules: [
             "Spot registrations are not permitted.",
             "A maximum of 12 players may represent any batch or team.",
@@ -128,6 +128,7 @@ const sportsData: {
         rules: [
             "Spot registrations are not permitted.",
             "Chess, Carrom, Table Tennis matches will be conducted on a knockout basis.",
+            "Each match will have a time duration of one hour. If a match extends beyond this duration, an additional 10 minutes will be granted to determine the winner.",
             "If the match remains undecided after the extra time, the winner will be determined by the result of a coin toss between the players.",
             "For Table Tennis, preliminary matches will be played as a single set to 11 points.",
             "Quarter-final, semi-final, and final matches of Table Tennis will be conducted in a best of 3 sets format, with each set played to 11 points.",

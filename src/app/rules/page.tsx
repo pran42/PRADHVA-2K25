@@ -3,7 +3,7 @@ const Page = () => {
     <div className="min-h-screen bg-gradient-to-br from-green-600 to-white p-8 text-black">
       <div className="max-w-4xl mx-auto bg-white bg-opacity-10 p-8 rounded-lg shadow-lg">
         <h1 className="text-4xl font-extrabold text-center mb-8 drop-shadow-lg">
-          PRADHVA 4.0
+          PRADHVA 2025
         </h1>
         <h2 className="text-2xl font-semibold mb-4 underline">
           Rules and Regulations:
@@ -194,7 +194,7 @@ const Page = () => {
               <strong>Cricket-Specific Rule:</strong>
               <ul className="list-disc ml-4">
                 <li>
-                  Cricket will have <strong>2 Teams per house</strong>,
+                  Cricket will have <strong>1 Team per house</strong>,
                   regardless of the year.
                 </li>
               </ul>
@@ -204,7 +204,7 @@ const Page = () => {
               <ul className="list-disc ml-4">
                 <li>
                   <strong>For cricket:</strong> If the number of teams increases
-                  by <strong>more than 2</strong>, preliminaries will be held.
+                  by <strong>more than 1</strong>, preliminaries will be held.
                 </li>
                 <li>
                   <strong>For other sports:</strong> If the number of teams{" "}
@@ -216,7 +216,7 @@ const Page = () => {
               </ul>
             </li>
             <li>
-              <strong>Kabaddi and Kho-Kho will be conducted later.</strong>
+              Registration for <strong>KABADDI</strong> is separate.
             </li>
           </ul>
         </section>

@@ -3,7 +3,7 @@ const Page = () => {
     <div className="min-h-screen bg-gradient-to-br from-green-600 to-white p-8 text-black">
       <div className="max-w-4xl mx-auto bg-white bg-opacity-10 p-8 rounded-lg shadow-lg">
         <h1 className="text-4xl font-extrabold text-center mb-8 drop-shadow-lg">
-          PRADHVA 2025
+          PRADHVA 4.0
         </h1>
         <h2 className="text-2xl font-semibold mb-4 underline">
           Rules and Regulations:
@@ -65,7 +65,7 @@ const Page = () => {
           <ul className="list-disc ">
             <li>
               Events include <strong>Carroms</strong>, <strong>Chess</strong>,
-              and <strong>Table Tennis</strong>.
+              and <strong>Table Tennis</strong>: <strong> Singles </strong> and <strong>Doubles </strong>.
             </li>
           </ul>
         </section>
@@ -75,7 +75,7 @@ const Page = () => {
           <ul className="list-disc ">
             <li>
               Relay races include <strong>4x100m</strong> and{" "}
-              <strong>4x400m</strong>.
+              <strong>4x400m</strong> out of which only <b>1</b> can be chosen.
             </li>
           </ul>
         </section>
@@ -130,7 +130,7 @@ const Page = () => {
           <h3 className="text-xl font-semibold mb-2">Team Formation:</h3>
           <ul className="list-disc ">
             <li>
-              Teams must consist of members from the same house. The players may
+              Teams must consist of members from the <b> same house</b>. The players may
               be from any year.
             </li>
           </ul>

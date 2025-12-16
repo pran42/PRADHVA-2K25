@@ -86,7 +86,7 @@ const sportsData: {
             "Spot registrations are not permitted.",
             "Each match will last for 30 minutes, consisting of two 15-minute halves with a 5-minute break in between.",
             "All matches will follow a knockout format. If a match ends in a draw, extra time will be given, followed by a penalty shootout to decide the winner.",
-            "Each team must have no more than 16 members."
+            "Each team must have no more than 15 members."
         ],
         formLink: 'https://forms.gle/bLBLzSBq275ZYybu6',
         bgImage: '/images/football-bg.jpg'

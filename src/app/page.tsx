@@ -154,6 +154,7 @@ const HomePage = () => {
                         <li>Table Tennis</li>
                         <li>Carroms</li>
                         <li>Chess</li>
+                        <li>Badminton</li>
                       </ul>
                     </div>
 
